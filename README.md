@@ -1,7 +1,7 @@
 # Netlimiter-for-Destiny-2
 NL4 with full patch (can open while in d2) and infinite license.
 
-# Video tutorial:
+# Video tutorial: DM @roiuki on discord for vid
 
 ## How To Install/Use
 ## 1 INSTALL Netlimiter Release 4.1.13.0 from this offical website link: https://www.netlimiter.com/releases/4-1-13-0
